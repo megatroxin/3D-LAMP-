@@ -11,7 +11,7 @@ This repository contains a high-quality, game-ready 3D model of a lamp. The mode
 ## 🖼️ Preview Renders
 | Front View | Side View | Wireframe |
 |------------|----------|-----------|
-| ![Front View](3dlampiamges/frontview.jpg) | ![Side View](3dlampiamges/sideview.jpg) | ![Wireframe](3dlampiamges/wireframe.png) |
+| ![Front View](renders/front_view.jpg) | ![Side View](renders/side_view.jpg) | ![Wireframe](renders/wireframe.jpg) |
 
 ## 📝 License
 This model is available under the [MIT License](LICENSE), allowing free use in personal and commercial projects. Attribution is appreciated but not required.
@@ -21,4 +21,12 @@ If you have improvements, feel free to submit a pull request.
 
 ## 📩 Contact
 For any questions or collaboration, reach out via GitHub issues or email me at `[supernsinghanshul@gmail.com]`.
+
+
+
+
+
+
+
+
 
